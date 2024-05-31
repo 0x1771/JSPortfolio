@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: bjj
-    env: static
-    repo: https://github.com/0x1771/SpacePort.git
-    buildCommand: npm run build
-    staticPublishPath: ./build
-    branch: main
-    pullRequestPreviewsEnabled: true # optional
