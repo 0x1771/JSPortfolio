@@ -2,7 +2,6 @@
   "name": "portfolio",
   "homepage": "https://0x1772.github.io/JSPortfolio/",
   "description": "Portfolio site for Mikail Üstüner",
-  "repository": "https://github.com/HamishMW/portfolio.git",
   "author": "Mikail Üstüner",
   "sideEffects": false,
   "type": "module",
