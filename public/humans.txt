@@ -1,13 +1,3 @@
-__  __  __
-\ \ \ \ \/
- \ \/\ \
-  \/  \/
-
-The humans.txt file explains the team, technology,
-and graphic assets behind this site humanstxt.org.
-
-_______________________________________________________________________________
-
 DESIGNER | デザイナー
 
 Mikail Üstüner
@@ -18,8 +8,7 @@ Figma
 Photoshop
 Blender
 
-twitter.com/hamishmw
-github.com/hamishmw
+github.com/0x1771
 
 _______________________________________________________________________________
 

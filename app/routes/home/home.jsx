@@ -126,7 +126,7 @@ export const Home = () => {
         title="SmileOS: Custom ROM"
         description="AOSP based custom ROM for Android devices with a focus on performance and stability"
         buttonText="View website"
-        buttonLink="https://0x1772.me/"
+        buttonLink="https://mikailustuner.dev/"
         model={{
           type: 'phone',
           alt: 'App login screen',

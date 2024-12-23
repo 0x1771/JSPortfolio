@@ -10,8 +10,8 @@ export const Footer = ({ className }) => (
       <span className={styles.date}>
         {`© ${new Date().getFullYear()} ${config.name}.`}
       </span>
-      <Link secondary className={styles.link} href="https://instagram.com/0x1772/" target="_self">
-        Coded by 0x1772
+      <Link secondary className={styles.link} href="https://instagram.com/mikailustunerr/" target="_self">
+        created by Mikail Üstüner
       </Link>
     </Text>
   </footer>

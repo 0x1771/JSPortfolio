@@ -22,17 +22,17 @@ export const navLinks = [
 export const socialLinks = [
   {
     label: 'Instagram',
-    url: `https://twitter.com/${config.instagram}`,
+    url: `https://instagram.com/mikailustunerr`,
     icon: 'instagram',
   },
   {
     label: 'Linkedin',
-    url: `https://www.linkedin.com/in/${config.linkedin}`,
+    url: `https://www.linkedin.com/in/mikailustuner`,
     icon: 'linkedin',
   },
   {
     label: 'Github',
-    url: `https://github.com/${config.github}`,
+    url: `https://github.com/0x1771`,
     icon: 'github',
   },
 ];
