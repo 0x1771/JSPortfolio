@@ -4,7 +4,6 @@ import vknz from '~/assets/photography-cube-nz.jpg';
 import vkpx from '~/assets/photography-cube-px.jpg';
 import vkpy from '~/assets/photography-cube-py.jpg';
 import vkpz from '~/assets/photography-cube-pz.jpg';
-import armor from '~/assets/photography-knight.glb';
 import { Loader } from '~/components/loader';
 import { tokens } from '~/components/theme-provider/theme';
 import { Transition } from '~/components/transition';
